@@ -1,0 +1,11 @@
+{
+  "name": "buy_sum_stuff",
+  "version": "1.0.0",
+  "description": "Challenge 13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
